@@ -4,7 +4,7 @@ This repository demonstrates the usage of the **Blowfish algorithm** for encrypt
 
 ## Overview
 
-The **Blowfish Algorithm** was designed by **Bruce Schneier** in 1993 as a fast and secure encryption method. It operates on **64-bit** blocks of data and supports key sizes ranging from **32 bits to 448 bits**. Blowfish is a **symmetric-key cipher**, meaning the same key is used for both encryption and decryption. 
+The **Blowfish Algorithm** a fast and secure encryption method. It operates on **64-bit** blocks of data and supports key sizes ranging from **32 bits to 448 bits**. Blowfish is a **symmetric-key cipher**, meaning the same key is used for both encryption and decryption. 
 
 In this project, we explore the implementation of Blowfish to securely encrypt and decrypt messages using the Python programming language.
 
